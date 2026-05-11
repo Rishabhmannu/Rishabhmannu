@@ -36,6 +36,7 @@ Open to **AI Full-Stack** and **ML Engineer** roles where I can own the full ver
 
 | Project | What it is |
 |---|---|
+| 🧮 **[financebench-rag-agent](https://github.com/Rishabhmannu/financebench-rag-agent)** | Multi-agent **LangGraph RAG** for financial document Q&A. Reached **47.3% correctness** on the public **FinanceBench** benchmark — within 8 pts of EMNLP 2025 SOTA — via selective agentic retrieval and a **LoRA fine-tuned BGE reranker**. RBAC at the Qdrant payload-filter layer; **HITL approval** via LangGraph `interrupt()`; self-hosted **LiteLLM + Langfuse + Redis** observability stack. *Backend complete (294 tests); Next.js 16 frontend in progress.* <br/> `LangGraph · FastAPI · Qdrant · Claude 4.6 · PostgreSQL · Next.js (WIP)` |
 | 🩸 **[edge-cbc-analyzer](https://github.com/Rishabhmannu/edge-cbc-analyzer)** | 5-tier Complete Blood Count analysis pipeline (segmentation → WBC differential → anemia screen → RBC morphology → 15-target CBC regression) on **Jetson Orin Nano Super + TX2**. YOLOv8n-seg matches published SOTA at **mAP50 = 0.988** with 2.7–3.3× fewer parameters. End-to-end **171 ms / 5.85 FPS**; 30-min stress run with no thermal throttling or memory leak. *8th-semester research project at IIIT Allahabad.* <br/> `PyTorch · TensorRT FP16 · YOLOv8 · EfficientNet-B0 · Jetson · Gradio` |
 | 🧘 **[zen-daily-wisdom](https://github.com/Rishabhmannu/zen-daily-wisdom)** | Personalized RAG service over 4,606 wisdom passages, with bandit-based mood personalization (regret **47.1 vs 124.8** baseline) and **RAG recall@5 = 0.767**. Multi-channel delivery via email/Telegram, deployed end-to-end. <br/> `Next.js · FastAPI · Supabase pgvector · Gemini · Vercel` |
 | 🏦 **[banking-observability-platform](https://github.com/Rishabhmannu/banking-observability-platform)** | Open-source AIOps stack for **37+ banking microservices** with ML-based DDoS detection (Isolation Forest · LSTM · One-Class SVM), chaos-engineering injector, and a Mermaid-mapped architecture across 25+ containers. *Built during ICICI Bank internship.* <br/> `Python · Docker · TensorFlow · Prometheus · Grafana` |
@@ -46,7 +47,6 @@ Open to **AI Full-Stack** and **ML Engineer** roles where I can own the full ver
 
 ## Current Work
 
-- 🧠 **RAG-based financial document chat** — domain-grounded assistant for financial reports and filings.
 - 📚 **AI/ML research at IIIT Allahabad** — applied deep learning and edge inference, building on the CBC research pipeline.
 
 ---
