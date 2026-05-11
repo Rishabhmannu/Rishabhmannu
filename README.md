@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-hazel-sigma-51.vercel.app/">
+  <a href="https://iamrishabh.me/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rishabh-kumar-815601230/">
@@ -105,7 +105,7 @@ Open to **AI Full-Stack** and **ML Engineer** roles where I can own the full ver
 <p align="center"><i>Open to engineering opportunities. Reach out to discuss AI systems, agentic architectures, or applied ML.</i></p>
 
 <p align="center">
-  <a href="https://portfolio-hazel-sigma-51.vercel.app/">
+  <a href="https://iamrishabh.me/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Visit%20my%20portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/rishabh-kumar-815601230/">
