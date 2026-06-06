@@ -34,14 +34,17 @@ Open to **AI Full-Stack** and **ML Engineer** roles where I can own the full ver
 
 ## Featured Projects
 
-| Project | What it is |
-|---|---|
-| 🧮 **[financebench-rag-agent](https://github.com/Rishabhmannu/financebench-rag-agent)** | Multi-agent **LangGraph RAG** for financial document Q&A. Reached **72.7% correctness** on the public **FinanceBench** benchmark under a **Cohen's κ = 0.932** calibrated judge — ~30 pts above standard vector-RAG baselines. RBAC at the Qdrant payload-filter layer; **multi-party HITL approval** via LangGraph `interrupt()`; self-hosted **LiteLLM + Langfuse + Redis** observability stack. *Shipped to PyPI + GHCR; 347 passing tests; pre-vectorized HF dataset published.* <br/> `LangGraph · FastAPI · Qdrant · Claude 4.6 · PostgreSQL · BGE Reranker · PyPI` |
-| 🩸 **[edge-cbc-analyzer](https://github.com/Rishabhmannu/edge-cbc-analyzer)** | 5-tier Complete Blood Count analysis pipeline (segmentation → WBC differential → anemia screen → RBC morphology → 15-target CBC regression) on **Jetson Orin Nano Super + TX2**. YOLOv8n-seg matches published SOTA at **mAP50 = 0.988** with 2.7–3.3× fewer parameters. End-to-end **171 ms / 5.85 FPS**; 30-min stress run with no thermal throttling or memory leak. *8th-semester research project at IIIT Allahabad.* <br/> `PyTorch · TensorRT FP16 · YOLOv8 · EfficientNet-B0 · Jetson · Gradio` |
-| 🧘 **[zen-daily-wisdom](https://github.com/Rishabhmannu/zen-daily-wisdom)** | Personalized RAG service over 4,606 wisdom passages, with bandit-based mood personalization (regret **47.1 vs 124.8** baseline) and **RAG recall@5 = 0.767**. Multi-channel delivery via email/Telegram, deployed end-to-end. <br/> `Next.js · FastAPI · Supabase pgvector · Gemini · Vercel` |
-| 🏦 **[banking-observability-platform](https://github.com/Rishabhmannu/banking-observability-platform)** | Open-source AIOps stack for **37+ banking microservices** with ML-based DDoS detection (Isolation Forest · LSTM · One-Class SVM), chaos-engineering injector, and a Mermaid-mapped architecture across 25+ containers. *Built during ICICI Bank internship.* <br/> `Python · Docker · TensorFlow · Prometheus · Grafana` |
-| ✈️ **[skywings-airways](https://github.com/Rishabhmannu/skywings-airways)** | Full-stack airline ticket booking with real-time Google Flights data, OTP-secured mock payments, and PDF/QR e-tickets. Deployed on Vercel + Oracle Cloud, **55 passing tests**. <br/> `Spring Boot 3 · React 18 · PostgreSQL · Redis` |
-| 🛒 **[amazon-greencart-hackathon](https://github.com/Rishabhmannu/amazon-greencart-hackathon)** ⭐ 58 | Sustainable e-commerce with an XGBoost-based **EarthScore** (0–100), DBSCAN group-buying clusters, and a multi-agent shopping assistant. *Built for Amazon HackOn 2025.* <br/> `React · TypeScript · FastAPI · LangGraph · Redis` |
+- 🧮 **[financebench-rag-agent](https://github.com/Rishabhmannu/financebench-rag-agent)** — Multi-agent RAG for financial document Q&A; **72.7% on FinanceBench** (κ = 0.932 calibrated judge). Shipped to PyPI + GHCR. `LangGraph · Qdrant · Claude · FastAPI`
+
+- 🔋 **[hybrid-ml-mcdm-battery-eol](https://github.com/Rishabhmannu/hybrid-ml-mcdm-battery-eol)** — ML + multi-criteria framework for EV battery end-of-life routing across EU / GBA / India regulatory regimes. **SoH RMSE 2.43pp on 1,581 cells, 7 chemistries**. Live Streamlit demo · *manuscript in preparation*. `XGBoost · TCN · TOPSIS · BWM`
+
+- 🩸 **[edge-cbc-analyzer](https://github.com/Rishabhmannu/edge-cbc-analyzer)** — 5-tier Complete Blood Count pipeline on Jetson Orin Nano. **mAP50 = 0.988 at 2.7–3.3× fewer params** than published SOTA. 8th-semester research project. `YOLOv8-seg · EfficientNet-B0 · TensorRT FP16`
+
+- 🧘 **[zen-daily-wisdom](https://github.com/Rishabhmannu/zen-daily-wisdom)** — Personalized RAG with Thompson-sampling bandit ranking; **recall@5 = 0.767, regret 47.1 vs 124.8 baseline**. Deployed end-to-end. `Next.js · FastAPI · pgvector · Gemini`
+
+- 🏦 **[banking-observability-platform](https://github.com/Rishabhmannu/banking-observability-platform)** — Open-source AIOps stack for 37+ banking microservices with ML-based DDoS detection. Built during **ICICI Bank internship**. `Python · Docker · TensorFlow · Prometheus`
+
+- 🛒 **[amazon-greencart-hackathon](https://github.com/Rishabhmannu/amazon-greencart-hackathon)** ⭐ 58 — Sustainable e-commerce with XGBoost EarthScore, DBSCAN group-buying, multi-agent shopping assistant. **Semi-Finalist · Amazon HackOn S5**. `React · FastAPI · LangGraph`
 
 ---
 
