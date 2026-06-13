@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rishabh</h1>
 
 <p align="center">
-  <b>AI Full-Stack Engineer</b> · Final-year B.Tech (IT) @ IIIT Allahabad<br/>
+  <b>AI Full-Stack Engineer</b> · B.Tech (IT) @ IIIT Allahabad '26<br/>
   Applied AI systems engineering — from model design through agent orchestration to user-facing apps.
 </p>
 
@@ -24,9 +24,9 @@
 
 ## About
 
-Final-year **B.Tech (IT)** at **IIIT Allahabad**, working at the intersection of applied AI and shipped product. My focus spans model design and evaluation, agent orchestration, and the full-stack systems that surface them to users.
+**B.Tech (IT)** at **IIIT Allahabad** ('26), working at the intersection of applied AI and shipped product. My focus spans model design and evaluation, agent orchestration, and the full-stack systems that surface them to users.
 
-Recently completed a Technology Internship at **ICICI Bank** working on **Applied ML for Observability & AIOps** — built a banking-grade AIOps platform with ML-based anomaly detection; **received a Pre-Placement Offer** for full-time return. Current work centres on **AI/ML research at IIIT Allahabad** alongside an open-source agentic-RAG system recently shipped to PyPI.
+Recently completed a Technology Internship at **ICICI Bank** working on **Applied ML for Observability & AIOps** — built a banking-grade AIOps platform with ML-based anomaly detection; **received a Pre-Placement Offer** for full-time return. Current work centres on ongoing **AI/ML research** alongside an open-source agentic-RAG system recently shipped to PyPI.
 
 Open to **AI Full-Stack** and **ML Engineer** roles where I can own the full vertical from model layer through API to interface.
 
@@ -50,7 +50,7 @@ Open to **AI Full-Stack** and **ML Engineer** roles where I can own the full ver
 
 ## Current Work
 
-- 📚 **AI/ML research at IIIT Allahabad** — applied deep learning and edge inference, building on the CBC research pipeline.
+- 📚 **Ongoing AI/ML research** — applied deep learning and edge inference, building on the CBC research pipeline.
 
 ---
 
